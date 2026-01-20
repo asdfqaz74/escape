@@ -4,7 +4,7 @@
       "title": "시크릿 에이전트",
       "description": "카디프에 위치해 있는 비밀안가. 양복점으로 운영 중이던 이곳이 적대 세력에 의해 공격 당하고 이곳을 관리하던 관리인 Merlin은 혼수 상태에 빠져버린다. 이 곳 어딘가에 일급 기밀 CD를 보관하는 장소가 있지만, 유일하게 비밀장소를 알고 있던 Merlin이 의식이 없기 때문에 요원들을 파견 하게 되는데... 일급 문서가 있는 CD를 찾아 사수하라!",
       "genre": ["잠입", "수사"],
-      "difficulty": "3/5",
+      "difficulty": "4/5",
       "length": "60분",
       "image": "/image/시크릿에이전트.jpg",
       "time": [
@@ -18,6 +18,10 @@
         "19:45",
         "21:00",
         "22:15"
+      ],
+      "review": [
+        "https://m.blog.naver.com/nam_uu_/222922572737",
+        "https://itchipmunk.tistory.com/496"
       ]
     },
     {
@@ -38,6 +42,10 @@
         "20:05",
         "21:20",
         "22:35"
+      ],
+      "review": [
+        "https://blog.naver.com/dssummer/223170512083",
+        "https://blog.naver.com/pudoll_/223546373350"
       ]
     },
     {
@@ -58,6 +66,10 @@
         "19:55",
         "21:10",
         "22:25"
+      ],
+      "review": [
+        "https://blog.naver.com/young-forever-/222662407892",
+        "https://blog.naver.com/still_got_me/222822649654"
       ]
     },
     {
@@ -79,6 +91,10 @@
         "20:30",
         "21:45",
         "23:00"
+      ],
+      "review": [
+        "https://m.blog.naver.com/na_gii_/223555028484",
+        "https://m.blog.naver.com/22345095/222982418918"
       ]
     },
     {
@@ -88,7 +104,11 @@
       "difficulty": "3/5",
       "length": "100분",
       "image": "/image/나이트워크.jpg",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:05", "20:05", "22:05"]
+      "time": ["10:00", "12:00", "14:00", "16:00", "18:05", "20:05", "22:05"],
+      "review": [
+        "https://blog.naver.com/vikiaa/223714071551",
+        "https://m.blog.naver.com/se_o0327/223091666731?recommendTrackingCode=2"
+      ]
     },
     {
       "title": "나이스",
@@ -108,6 +128,10 @@
         "19:30",
         "20:50",
         "22:10"
+      ],
+      "review": [
+        "https://blog.naver.com/sm930731/223311661675",
+        "https://munggommee.tistory.com/entry/%EB%82%B4%EB%8F%88%EB%82%B4%EC%82%B0-%EB%B9%84%EB%B0%80%EC%9D%98-%ED%99%94%EC%9B%90%EB%8C%80%ED%95%99%EB%A1%9C%EC%A0%90-%EB%82%98%EC%9D%B4%EC%8A%A4-%EB%B0%A9%ED%83%88%EC%B6%9C-%ED%9B%84%EA%B8%B0"
       ]
     }
   ]

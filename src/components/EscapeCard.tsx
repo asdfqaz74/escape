@@ -11,6 +11,7 @@ interface EscapeRoom {
   length: string;
   image: string;
   time: string[];
+  review?: string[];
 }
 
 interface EscapeCardProps {
@@ -114,6 +115,26 @@ const EscapeCard = ({ room }: EscapeCardProps) => {
                 ))}
               </div>
             </div>
+
+            {/* 후기 */}
+            {room.review && room.review.length > 0 && (
+              <div className="mt-4">
+                <h3 className="text-amber-400 font-semibold mb-3">📝 후기</h3>
+                <div className="flex flex-wrap gap-2">
+                  {room.review.map((link, index) => (
+                    <a
+                      key={index}
+                      href={link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="px-3 py-2 text-sm bg-zinc-800 hover:bg-amber-500 hover:text-black text-zinc-300 rounded-lg transition-colors duration-200 font-medium"
+                    >
+                      후기{index + 1}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </div>
