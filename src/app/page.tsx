@@ -8,7 +8,7 @@ const Home = () => {
       <header className="sticky top-0 z-50 bg-black/80 backdrop-blur-md border-b border-zinc-800">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <h1 className="text-2xl md:text-3xl font-bold text-white">
-            방탈출 카페 정리해봅니다
+            지영님을 위해 준비해봤어요!
           </h1>
         </div>
       </header>
